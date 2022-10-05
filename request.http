@@ -1,0 +1,9 @@
+GET http://localhost:8080 HTTP/1.1
+
+###
+
+GET http://localhost:8080/health HTTP/1.1
+
+###
+
+GET http://EC2Co-EcsEl-12XLBG637FMCZ-94272780.us-east-1.elb.amazonaws.com HTTP/1.1
